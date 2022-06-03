@@ -1,8 +1,12 @@
-### Hi there 👋
+### Heya 👋
+
+Just another 17 year old kid who picked up a keyboard, started typing some code with it and found a niche for it. Liking Full-Stack Web Dev. at the moment so that's what I'm in the process of getting better at. Also trying to grow myself and put out some awesome work in the vast network of bits (Internet).
+
+🔭 currently working on acing my final exams of final semester of college with so I can get back to hacking some Go & TypeScript @-@ 
+
+Maybe I'll update this later on with something; less boring :^)
 
 <!--
-**0xaf2f6ad/0xaf2f6ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
