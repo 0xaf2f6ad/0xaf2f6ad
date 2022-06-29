@@ -1,8 +1,6 @@
 ### Heya 👋
 
-Just another 17 year old kid who picked up a keyboard, started typing some code with it and found a niche for it. Liking Full-Stack Web Dev. at the moment so that's what I'm in the process of getting better at. Also trying to grow myself and put out some awesome work in the vast network of bits (Internet).
-
-🔭 currently working on acing my final exams of final semester of college with so I can get back to hacking some Go & TypeScript @-@ 
+Just another 17 year old kid who picked up a keyboard, started typing some code with it and found a niche for it. Trying to make my mind to put out some awesome work in the vast network of bits (Internet).
 
 Maybe I'll update this later on with something; less boring :^)
 
