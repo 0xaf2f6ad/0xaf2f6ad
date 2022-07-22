@@ -1,6 +1,6 @@
 ### Heya 👋
 
-Just another 17 year old who picked up a keyboard, started typing some code with it and found a niche for it. Trying to make my mind to put out some awesome work in the vast network of bits (Internet).
+Bought a keyboard for gaming, but started typing some code with it and found a niche for it. Trying to make my mind to put out some awesome work in the vast network of bits.
 
 Maybe I'll update this later on with something; less boring :^)
 
